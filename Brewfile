@@ -25,8 +25,6 @@ cask "safeincloud-password-manager"
 cask "slack"
 cask "ticktick"
 cask "yt-music"
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Magnet", id: 441258766
 mas "Monosnap", id: 540348655
